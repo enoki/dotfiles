@@ -1,0 +1,19 @@
+[user]
+name = "Grant Yoshida"
+email = "enoki.enoki@gmail.com"
+
+[diff]
+color = auto
+
+[status]
+color = auto
+
+[pager]
+color = true
+
+[alias]
+check = checkout
+com = commit -a
+dif = diff
+st = status -a
+br = branch
