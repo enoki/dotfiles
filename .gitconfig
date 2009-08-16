@@ -15,5 +15,7 @@ color = true
 check = checkout
 com = commit -a
 dif = diff
+difc = diff --cached
 st = status -a
 br = branch
+wc = whatchanged
