@@ -44,4 +44,4 @@ map <C-S> :Sexplore<CR>
 inoremap # X#
 
 let g:netrw_sort_sequence='[\/]$,*,\.bak$,\.o$,\.info$,\.swp$,\.obj$,\.pyc$,\.pyo$'
-let g:netrw_fastbrowse=2
+"let g:netrw_fastbrowse=2
