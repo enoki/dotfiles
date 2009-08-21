@@ -16,5 +16,8 @@ bind s split
 vbell off
 startup_message off
 #
+autodetach on
+shell -$SHELL
+#
 hardstatus alwayslastline
 hardstatus string "%{.bW}%-w%{.gW}%n %t%{-}%+w %=%{..G} %H %{..Y} %m/%d"
