@@ -11,7 +11,7 @@ set smartcase
 set showmatch
 set hlsearch
 set ruler
-set complete=.,w,b,u,t
+set complete=.,w,b,t
 set su=.bak,~,.o,.bmp,.gif,.patch,.info,.swp,.vim,.obj,.cur
 set nowrap
 set history=50
